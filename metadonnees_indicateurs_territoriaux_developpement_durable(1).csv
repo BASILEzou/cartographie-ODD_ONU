@@ -1,0 +1,61 @@
+CODE DES VARIABLES,LIBELLE DES VARIABLES,CODE DES MODALITES,LIBELLE DES MODALITES,TYPE DE VARIABLES
+"codgeo,code géographique,""numérotation des communes, départements, régions..."",,CHAR"
+libgeo,libellé du code géographique,libellé en clair,,CHAR
+no_indic,numéro de l’indicateur,iNNNx,indicateur numéro NNN ,CHAR
+ODD1,numéro de l’objectif de développement durable d’affectation,entier entre 1 et 17,,CHAR
+"Cible1,numéro de la cible,N.M,""N est le numéro de l'ODD1, M est un numéro séquentiel"",CHAR"
+ODD2,numéro du 2ème objectif de développement durable d’affectation,entier entre 1 et 17,,CHAR
+"Cible2,numéro de la 2ème cible,N.M,""N est le numéro de l'ODD2, M est un numéro séquentiel"",CHAR"
+type_var,type de variable (indicateur ou composante de l’indicateur),i,indicateur,CHAR
+type_var,type de variable (indicateur ou composante de l’indicateur),c,composante d'un indicateur,CHAR
+variable,nom de l’indicateur ou de la composante de l’indicateur,nom en clair,,CHAR
+sous_champ,nom du sous champ,nom en clair,,CHAR
+A1955,valeur pour l’année 1955,,,NUM
+A1960,valeur pour l’année 1960,,,NUM
+A1965,valeur pour l’année 1965,,,NUM
+A1970,valeur pour l’année 1970,,,NUM
+A1975,valeur pour l’année 1975,,,NUM
+A1980,valeur pour l’année 1980,,,NUM
+A1982,valeur pour l’année 1982,,,NUM
+A1983,valeur pour l’année 1983,,,NUM
+A1984,valeur pour l’année 1984,,,NUM
+A1985,valeur pour l’année 1985,,,NUM
+A1986,valeur pour l’année 1986,,,NUM
+A1987,valeur pour l’année 1987,,,NUM
+A1988,valeur pour l’année 1988,,,NUM
+A1989,valeur pour l’année 1989,,,NUM
+A1990,valeur pour l’année 1990,,,NUM
+A1991,valeur pour l’année 1991,,,NUM
+A1992,valeur pour l’année 1992,,,NUM
+A1993,valeur pour l’année 1993,,,NUM
+A1994,valeur pour l’année 1994,,,NUM
+A1995,valeur pour l’année 1995,,,NUM
+A1996,valeur pour l’année 1996,,,NUM
+A1997,valeur pour l’année 1997,,,NUM
+A1998,valeur pour l’année 1998,,,NUM
+A1999,valeur pour l’année 1999,,,NUM
+A2000,valeur pour l’année 2000,,,NUM
+A2001,valeur pour l’année 2001,,,NUM
+A2002,valeur pour l’année 2002,,,NUM
+A2003,valeur pour l’année 2003,,,NUM
+A2004,valeur pour l’année 2004,,,NUM
+A2005,valeur pour l’année 2005,,,NUM
+A2006,valeur pour l’année 2006,,,NUM
+A2007,valeur pour l’année 2007,,,NUM
+A2008,valeur pour l’année 2008,,,NUM
+A2009,valeur pour l’année 2009,,,NUM
+A2010,valeur pour l’année 2010,,,NUM
+A2011,valeur pour l’année 2011,,,NUM
+A2012,valeur pour l’année 2012,,,NUM
+A2013,valeur pour l’année 2013,,,NUM
+A2014,valeur pour l’année 2014,,,NUM
+A2015,valeur pour l’année 2015,,,NUM
+A2016,valeur pour l’année 2016,,,NUM
+A2017,valeur pour l’année 2017,,,NUM
+A2018,valeur pour l’année 2018,,,NUM
+A2019,valeur pour l’année 2019,,,NUM
+A2020,valeur pour l’année 2020,,,NUM
+A2021,valeur pour l’année 2021,,,NUM
+A2022,valeur pour l’année 2022,,,NUM
+A2023,valeur pour l’année 2023,,,NUM
+A2024,valeur pour l’année 2024,,,NUM
